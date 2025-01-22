@@ -1,0 +1,4 @@
+cek di link sini :
+https://github.com/TheSpeedX/PROXY-List.git
+
+detail : proxy di update setiap hari, kalian ambil proxy di link ini, dan copas ke bot proxy_checker nya
