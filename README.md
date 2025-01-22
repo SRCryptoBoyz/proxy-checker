@@ -13,11 +13,11 @@ Script ini memeriksa validitas proxy dengan mencoba untuk terhubung dan menentuk
 
 1. Clone repositori :
    ```bash
-   git clone https://github.com/recitativonika/proxy-type-checker.git
+   git clone https://github.com/SRCryptoBoyz/proxy-checker.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd proxy-type-checker
+   cd proxy-checker
    ```
 3. Instal dependensi yang diperlukan:
    ```bash
