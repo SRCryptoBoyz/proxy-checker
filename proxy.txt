@@ -1,0 +1,7 @@
+masukan proxi klean di sini dengan pormat : 
+	ip:port
+	username:password@ip:port
+	http://ip:port
+	http://username:password@ip:port
+	socks5://ip:port
+	socks5://username:password@ip:port
