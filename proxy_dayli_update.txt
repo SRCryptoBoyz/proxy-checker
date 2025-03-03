@@ -1,4 +1,6 @@
 cek di link sini :
 https://github.com/TheSpeedX/PROXY-List.git
+https://github.com/monosans/proxy-list.git
+https://github.com/hookzof/socks5_list.git
 
 detail : proxy di update setiap hari, kalian ambil proxy di link ini, dan copas ke bot proxy_checker nya
